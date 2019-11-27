@@ -58,4 +58,31 @@ In Command Promt type  `pip install iotc` and push Enter. You should see downloa
 
 ![](media/vscode/vscode4.PNG)
 
+* Click `Install` button
+
+![](media/vscode/vscode5.PNG)
+
+* [x] Check "Launch Visual Studio Code"
+* Click `Finish` button
+
+![](media/vscode/vscode6.PNG)
+
+You should see VS Code start window like on image below.
+
+![](media/vscode/vscode7.PNG)
+
+Now you need to install two extentions that will help VS Code to understand and run Python Apps.
+1. Install Python extentision from Microsoft. To do this:
+  - Go to Extension Menu and put in search window text `@id:ms-python.python`, then click `Install`
+ 
+ ![](media/vscode/vscode12.PNG)
+ 
+   - Then Click on `Terminal` and `New Terminal` on VS Code main window
+ 
+ ![](media/vscode/vscode13.PNG)  
+   
+   - Put text `& python -m pip install -U pylint --user` in Teminal window and push `Enter`
+   
+ ![](media/vscode/vscode14.PNG)
+
 ***Congratulation! Now your PC ready for HOL!***
