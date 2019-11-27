@@ -50,7 +50,11 @@ In Command Promt type  `pip install iotc` and push Enter. You should see downloa
 
 ![](media/vscode/vscode3.PNG)
 
-* Click `Next` button
+* [x] Check "Create Desktop icon"
+  [x] Check "Open with Code" action to Windows Explorer file context menu"
+  [x] Check "Open with Code" action to Windows Explorer directiry context menu"
+  [x] Check "Add to PATH (requiers shell restart)"
+  "Click `Next` button
 
 ![](media/vscode/vscode4.PNG)
 
