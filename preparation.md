@@ -35,6 +35,7 @@ In Command Promt type  `pip install iotc` and push Enter. You should see downloa
 ![](media/install-iotc.png)
 
 ### Install VS Code 
-(not mandatory, but it is much easier for eyes to work in VS code vs Python IDLE )
-
+(not mandatory, but it is much easier for eyes to work in VS code vs Python IDLE)
+* Download CS Code using this link https://code.visualstudio.com/docs/?dv=win
+* Save file on you PC and run it then
 ***Congratulation! Now your PC ready for HOL!***
