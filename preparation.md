@@ -1,5 +1,5 @@
-### Technical pre-requirements
-**Install Python on your laptop:**
+# Technical pre-requirements
+### Install Python on your laptop:
 * Download Python 3.8.0 (32-bit version) using this link https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe
 * Save File
 
@@ -23,8 +23,13 @@
 
 ![](media/close.png)
 
-**Check Python version**
-* Open Command Prompt and type
-```cmd
-python --version
-```
+### Check Python version
+Open **Command Prompt** (Win+R -> Enter), type `python --version` text and push Enter 
+You should see **Python 3.8.0** is everythin done correct.
+
+![](media/check-python-version.png)
+
+### Install IOTC libriary (iot central python client)
+In Command Promt type  `pip install iotc` and push Enter
+
+![](media/install-iotc.png)
