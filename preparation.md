@@ -6,5 +6,4 @@ Install Python on your laptop:
 * Run downloaded file and check boxes like on image below:
   - [x] Install launcher for all users (recommended)
   - [x] Add Python 3.8 to PATH
-
 ![](media/run-tick.png)
