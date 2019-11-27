@@ -33,3 +33,8 @@ You should see **Python 3.8.0** is everythin done correct.
 In Command Promt type  `pip install iotc` and push Enter. You should see downloading progress bars and finall message should like this `Successfully installed httplib2-0.14.0, iotc-0.3.5 paho-mqtt-1.5.0`. Please note, that versions may very.
 
 ![](media/install-iotc.png)
+
+### Install VS Code 
+(not mandatory, but it is much easier for eyes to work in VS code vs Python IDLE )
+
+***Congratulation! Now your PC ready for HOL!***
