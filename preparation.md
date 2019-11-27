@@ -12,13 +12,19 @@
 ![](media/run-tick.png)
 
 * Click on text **Disable path length limit** on Setup was successful message
+
 ![](media/disable-260-limit.png)
 
 * Agree with User Account Control request - click Yes
+
 ![](media/UAC-yes.png)
 
 * Click Close button.
+
 ![](media/close.png)
 
 **Check Python version**
-* Open Command Prompt
+* Open Command Prompt and type
+```cmd
+python --version
+```
