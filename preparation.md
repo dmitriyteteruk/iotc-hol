@@ -32,6 +32,7 @@
 ### Check Python version
 Open **Command Prompt** (Win+R -> Enter), type `python --version` text and push Enter 
 You should see **Python 3.8.0** is everythin done correct.
+**Important** If `python --version` does not work, please Reboot you PC.
 
 ![](media/check-python-version.png)
 
