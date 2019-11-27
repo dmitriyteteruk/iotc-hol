@@ -3,7 +3,7 @@
 * [install Python](#install-python-on-your-laptop)
 * [install IOTC client](#install-iotc-libriary-iot-central-python-client)
 * [install Visual Studio Code](#install-vs-code)
-* [prepapre VS Code for work with Python](#install-vs-code-extensions-for-python)
+* [install VS Code Extensions for Python](#install-vs-code-extensions-for-python)
 
 ### Install Python on your laptop:
 * Download Python 3.8.0 (32-bit version) using this link https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe
