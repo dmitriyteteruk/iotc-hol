@@ -40,7 +40,7 @@ You should see **Python 3.8.0** if everything done correct.
 ![](media/check-python-version.png)
 
 ### Install IOTC libriary (iot central python client)
-In Command Promt type  `pip install iotc` and push Enter. You should see downloading progress bars and final message should look like this `Successfully installed httplib2-0.14.0, iotc-0.3.5 paho-mqtt-1.5.0`. Please note, that versions of libriaris/packages may be different.
+In Command Promt type  `pip install iotc` and push Enter. You should see downloading progress bars and final message should look like this `Successfully installed httplib2-0.14.0, iotc-0.3.5 paho-mqtt-1.5.0`. Please note, that versions of libraries/packages may be different.
 
 ![](media/install-iotc.png)
 
