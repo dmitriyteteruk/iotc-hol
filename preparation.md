@@ -31,7 +31,7 @@
 ![](media/close.png)
 
 ### Check Python version
-Open **Command Prompt** (Win+R -> Enter), type `python --version` text and push Enter 
+Open **Command Prompt** (Win+R -> `cmd` -> Enter), type `python --version` text and push Enter 
 You should see **Python 3.8.0** is everythin done correct.
 
 ***Important*** If `python --version` does not work in Command Prompt, please Reboot you PC and try again.
