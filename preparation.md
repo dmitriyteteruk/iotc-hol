@@ -1,6 +1,7 @@
 # Technical pre-requirements
 ### Prepare your laptop
 * [install Python](#install-python-on-your-laptop)
+* [check Python version](#check-python-version)
 * [install IOTC client](#install-iotc-libriary-iot-central-python-client)
 * [install Visual Studio Code](#install-vs-code)
 * [install VS Code Extensions for Python](#install-vs-code-extensions-for-python)
