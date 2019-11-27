@@ -40,7 +40,7 @@ You should see **Python 3.8.0** if everything done correct.
 ![](media/check-python-version.png)
 
 ### Install IOTC library (iot central python client)
-In Command Promt type  `pip install iotc` and push Enter. You should see downloading progress bars and final message should look like this `Successfully installed httplib2-0.14.0, iotc-0.3.5 paho-mqtt-1.5.0`. Please note, that versions of libraries/packages may be different.
+In Command Prompt type  `pip install iotc` and push Enter. You should see downloading progress bars and final message should look like this `Successfully installed httplib2-0.14.0, iotc-0.3.5 paho-mqtt-1.5.0`. Please note, that versions of libraries/packages may be different.
 
 ![](media/install-iotc.png)
 
@@ -83,8 +83,8 @@ You should see VS Code start window like on image below.
 
 ### Install VS Code Extensions for Python
 
-Now you need to install two extentions that will help VS Code to understand and run Python Apps.
-1. Install Python extentision from Microsoft. To do this:
+Now you need to install two extensions that will help VS Code to understand and run Python Apps.
+1. Install Python extension from Microsoft. To do this:
   - Go to Extension Menu and put in search window text `@id:ms-python.python`, then click `Install`
  
  ![](media/vscode/vscode12.PNG)
