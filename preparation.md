@@ -38,6 +38,17 @@ In Command Promt type  `pip install iotc` and push Enter. You should see downloa
 (not mandatory, but it is much easier for eyes to work in VS code vs Python IDLE)
 * Download VS Code using this link https://aka.ms/win32-x64-user-stable
 * Save file on you PC and run it then.
+* Agree with Terms and Conditions and click `Next` button
+
 ![](media/vscode/vscode1.PNG)
+
+* Click `Next` button
+![](media/vscode/vscode2.PNG)
+
+* Click `Next` button
+![](media/vscode/vscode3.PNG)
+
+* Click `Next` button
+![](media/vscode/vscode4.PNG)
 
 ***Congratulation! Now your PC ready for HOL!***
