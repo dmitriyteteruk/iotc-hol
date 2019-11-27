@@ -1,11 +1,11 @@
 # Technical pre-requirements
 ### Prepare your laptop
-* [install Python](#Install-Python-on-your-laptopn)
-* install IOTC client
-* install Visual Studio Code
-* prepapre VS Code for work with Python
+* [install Python](#install-python-on-your-laptop)
+* [install IOTC client](#install-iotc-libriary-iot-central-python-client)
+* [install Visual Studio Code](#install-vs-code)
+* [prepapre VS Code for work with Python](#install-vs-code-extensions-for-python)
 
-## Install Python on your laptop:
+### Install Python on your laptop:
 * Download Python 3.8.0 (32-bit version) using this link https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe
 * Save File
 
@@ -76,6 +76,8 @@ In Command Promt type  `pip install iotc` and push Enter. You should see downloa
 You should see VS Code start window like on image below.
 
 ![](media/vscode/vscode7.PNG)
+
+### Install VS Code Extensions for Python
 
 Now you need to install two extentions that will help VS Code to understand and run Python Apps.
 1. Install Python extentision from Microsoft. To do this:
