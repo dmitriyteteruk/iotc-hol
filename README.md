@@ -6,8 +6,14 @@ After this IoT Central Hands On Lab you will learn how to:
 * import Device Capability model and start to use in a minutes - thanks to Plug&Play feature
 * demo IoT Central with real time data analysis and alarm notifications
 
-### Technical pre-requirements
-* Install Python on your laptop:
-  - Download Python 3.8.0 (32-bit version) using this link https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe
-  - Save File and Run it
-  ![](media/Save-Run.png)
+### Prepare your laptop
+Check [this tutorial](https://github.com/dmitriyteteruk/iotc-hol/blob/master/preparation.md) for how to install Python, IOTC client and Visual Studio Code
+
+### Check that you have Azure subscribtion
+Got to [IoT Central web-site](https://apps.azureiotcentral.com) and try to login with your working account
+
+### Industry Scenarios
+Please choose one of three Industry scenearios that you would like to use during Hands On Lab:
+* Retail Scenario
+* Logistic
+* Healthcare
