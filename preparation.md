@@ -1,6 +1,6 @@
 # Technical pre-requirements
 ### Prepare your laptop
-* [install Python](#Install Python on your laptopn)
+* [install Python](#Install-Python-on-your-laptopn)
 * install IOTC client
 * install Visual Studio Code
 * prepapre VS Code for work with Python
