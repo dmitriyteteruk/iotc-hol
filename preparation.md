@@ -75,7 +75,7 @@ Now you need to install two extentions that will help VS Code to understand and 
 1. Install Python extentision from Microsoft. To do this:
   - Go to Extension Menu and put in search window text `@id:ms-python.python`, then click `Install`
  
- ![](media/vscode/vscode12.PNG)
+ ![](media/vscode/vscode12_LI.PNG)
  
    - Then Click on `Terminal` and `New Terminal` on VS Code main window
  
