@@ -54,7 +54,7 @@ In Command Promt type  `pip install iotc` and push Enter. You should see downloa
 * [x] Check "Open with Code" action to Windows Explorer file context menu"
 * [x] Check "Open with Code" action to Windows Explorer directiry context menu"
 * [x] Check "Add to PATH (requiers shell restart)"
-Then "Click `Next` button
+- Then "Click `Next` button
 
 ![](media/vscode/vscode4.PNG)
 
