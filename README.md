@@ -7,7 +7,10 @@ After this IoT Central Hands On Lab you will learn how to:
 * demo IoT Central with real time data analysis and alarm notifications
 
 ### Prepare your laptop
-Check [this tutorial](https://github.com/dmitriyteteruk/iotc-hol/blob/master/preparation.md) for how to install Python, IOTC client and Visual Studio Code
+Check [this tutorial with technical pre-requirements](https://github.com/dmitriyteteruk/iotc-hol/blob/master/preparation.md): 
+* how to install Python
+* IOTC client
+* Visual Studio Code
 
 ### Check that you have Azure subscribtion
 Got to [IoT Central web-site](https://apps.azureiotcentral.com) and try to login with your working account
