@@ -8,9 +8,10 @@ After this IoT Central Hands On Lab you will learn how to:
 
 ### Prepare your laptop
 Check [this tutorial with technical pre-requirements](https://github.com/dmitriyteteruk/iotc-hol/blob/master/preparation.md): 
-* how to install Python
-* IOTC client
-* Visual Studio Code
+* install Python
+* install IOTC client
+* install Visual Studio Code
+* prepapre VS Code for work with Python
 
 ### Check that you have Azure subscribtion
 Got to [IoT Central web-site](https://apps.azureiotcentral.com) and try to login with your working account
