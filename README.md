@@ -1,2 +1,2 @@
-# iotc-hol
-IoT Central Demo with 
+# IoT Central Hands on Lab
+
