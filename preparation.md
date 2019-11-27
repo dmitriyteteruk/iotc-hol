@@ -2,7 +2,7 @@
 ### Prepare your laptop
 * [install Python](#install-python-on-your-laptop)
 * [check Python version](#check-python-version)
-* [install IOTC client](#install-iotc-libriary-iot-central-python-client)
+* [install IOTC client](#install-iotc-library-iot-central-python-client)
 * [install Visual Studio Code](#install-vs-code)
 * [install VS Code Extensions for Python](#install-vs-code-extensions-for-python)
 
@@ -39,7 +39,7 @@ You should see **Python 3.8.0** if everything done correct.
 
 ![](media/check-python-version.png)
 
-### Install IOTC libriary (iot central python client)
+### Install IOTC library (iot central python client)
 In Command Promt type  `pip install iotc` and push Enter. You should see downloading progress bars and final message should look like this `Successfully installed httplib2-0.14.0, iotc-0.3.5 paho-mqtt-1.5.0`. Please note, that versions of libraries/packages may be different.
 
 ![](media/install-iotc.png)
