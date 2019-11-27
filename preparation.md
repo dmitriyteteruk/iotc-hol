@@ -43,12 +43,15 @@ In Command Promt type  `pip install iotc` and push Enter. You should see downloa
 ![](media/vscode/vscode1.PNG)
 
 * Click `Next` button
+
 ![](media/vscode/vscode2.PNG)
 
 * Click `Next` button
+
 ![](media/vscode/vscode3.PNG)
 
 * Click `Next` button
+
 ![](media/vscode/vscode4.PNG)
 
 ***Congratulation! Now your PC ready for HOL!***
