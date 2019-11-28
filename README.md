@@ -19,5 +19,5 @@ Got to [IoT Central web-site](https://apps.azureiotcentral.com) and try to login
 ### Industry Scenarios
 Please choose one of three Industry scenearios that you would like to use during Hands On Lab:
 * Retail Scenario
-* Logistic
-* Healthcare
+* Logistic TBC
+* Healthcare TBC
