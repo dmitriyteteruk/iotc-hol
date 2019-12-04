@@ -3,7 +3,7 @@
 ### Brief Description
 After this IoT Central Hands On Lab you will learn how to:
 * create New IoT Central Application using template
-* import Device Capability model and start to use in a minutes - thanks to Plug&Play feature
+* import new IoT Central Appliction and start to use in a minutes 
 * demo IoT Central with real time data analysis and alarm notifications
 * add new Plug and Play device
 
