@@ -82,7 +82,7 @@ You should start see logs with telemetry message from app to IoT Central and dat
 ## Closing words
 Congratulations!<br>
 Now you can demonstrate to any partner or customer how IoT Central SaaS works and it is value.
-You can change Dashboard and Tiles with a few clicks, add/remove/change (Rules) and demo Time Series Insights value using Analytics page.
+You can change Dashboard and Tiles with a few clicks, add/remove/change (Rules) and demo Plug and Play value using S1 Sensor device simulator.
 
 Do not forget to run Python application to see real-time data in you application during demo.
 The easiest way to Run the app is:
